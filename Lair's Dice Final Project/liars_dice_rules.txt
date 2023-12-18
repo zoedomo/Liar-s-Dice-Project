@@ -1,0 +1,22 @@
+Welcome to Liar's Dice!
+Here are the rules:
+
+1. The first player starts the round by announcing two numbers. The first number represents how many dice they believe have been rolled in total, 
+and the second number is the face of the dice (between 1 and 6). 
+For example, a player might say "2 5" indicating they think there are at least two dice showing the number five among all players.
+
+2. All players can either accept the announced count and face value and proceed to the next player or challenge the current player by calling them out as a liar.
+
+3. If a player is challenged, all dice are revealed. If the announced count and face value are correct, the player who made the announcement wins. Otherwise, the challenging player wins.
+
+4. If the announced count and face value are accepted by all players, 
+the next player takes their turn and must announce a count and face value that are higher than the previous announcement. 
+For instance, if the first player said "2 5," the next player could say "3 5," "3 4," or "4 2," but not "1 5" or "2 6."
+
+5. The game continues until a player is challenged and found to be incorrect.
+
+6. The player who successfully challenges the liar or the player who made the incorrect announcement is the winner of the round.
+
+7. The game continues with a new round, and the first player becomes the one who successfully called out the liar or won the previous round.
+
+Enjoy your game of Liar's Dice!
